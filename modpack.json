@@ -1,0 +1,152 @@
+{
+  "name": "c[OP]pack",
+  "version": "0.1.0",
+  "authors": [ "copygirl" ],
+  "mods": [
+    {
+      "name": "Advanced Health Options", "version": "1.5.11",
+      "url": "https://github.com/copygirl/AdvHealthOptions/releases/download/v1.5.1.11/AdvHealthOptions-1.7.10-1.5.1.11.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Applied Energistics 2", "version": "rv2-stable-3",
+      "url": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2/files/2238960/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Automagy", "version": "0.23",
+      "url": "http://minecraft.curseforge.com/mc-mods/222153-automagy/files/2235874",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "BetterStorage", "version": "0.13.1.126",
+      "url": "https://github.com/copygirl/BetterStorage/releases/download/v0.13.1.126/BetterStorage-1.7.10-0.13.1.126.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "BiblioCraft", "version": "1.10.4",
+      "url": "http://minecraft.curseforge.com/mc-mods/228027-bibliocraft/files/2235545/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "BiblioWoods (Biomes O' Plenty)", "version": "1.9",
+      "url": "http://minecraft.curseforge.com/mc-mods/228362-bibliocraft-bibliowoods-biomes-oplenty-edition/files/2229577/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Biomes O' Plenty", "version": "2.1.0.1283",
+      "url": "http://files.minecraftforge.net/maven/com/github/glitchfiend/biomesoplenty/BiomesOPlenty/1.7.10-2.1.0.1283/BiomesOPlenty-1.7.10-2.1.0.1283-universal.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Botania", "version": "r1.6-190",
+      "url": "http://botaniamod.net/dl.php?file=Botania%20r1.6-190.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "BuildCraft", "version": "7.0.4",
+      "url": "http://www.mod-buildcraft.com/releases/BuildCraft/7.0.4/buildcraft-7.0.4.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Carpenter's Blocks", "version": "3.3.6",
+      "url": "http://minecraft.curseforge.com/mc-mods/228932-carpenters-blocks/files/2233617/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Chisel 2", "version": "2.3.10.37",
+      "url": "http://minecraft.curseforge.com/mc-mods/225236-chisel-2/files/2233102/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "CodeChickenCore", "version": "1.0.6.43",
+      "url": "http://minecraft.curseforge.com/mc-mods/222213-codechickencore/files/2237939/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "CoFHCore", "version": "3.0.2-262",
+      "url": "http://minecraft.curseforge.com/mc-mods/69162-cofhcore/files/2234198/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "copycore", "version": "1.6.1.9",
+      "url": "https://github.com/copygirl/copycore/releases/download/v1.6.1.9/copycore-1.7.10-1.6.1.9.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Ender Storage", "version": "1.6.1.9",
+      "url": "https://github.com/copygirl/copycore/releases/download/v1.6.1.9/copycore-1.7.10-1.6.1.9.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Equivalent Exchange 3", "version": "0.3.507",
+      "url": "http://ee3.pahimar.com/all/latest/EquivalentExchange3-1.7.10-0.3.507.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Flaxbeard's Steam Power", "version": "0.28.7",
+      "url": "http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power/files/2231671/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Jabba", "version": "1.2.1a",
+      "url": "http://minecraft.curseforge.com/mc-mods/73510-jabba/files/2229724/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "MineTweaker 3", "version": "3.0.9C",
+      "url": "http://minetweaker3.powerofbytes.com/download/MineTweaker3-1.7.10-3.0.9C.jar",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "More Chisels", "version": "1.0-20",
+      "url": "http://minecraft.curseforge.com/mc-mods/227904-morechisels/files/2230667/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "MumbleLink", "version": "4.1.1-2b3035b",
+      "url": "http://minecraft.curseforge.com/mc-mods/222432-mumblelink/files/2208617/download",
+      "server": false, "client": true, "optional": true
+    }, {
+      "name": "Not Enough Items", "version": "1.0.4.107",
+      "url": "http://minecraft.curseforge.com/mc-mods/222211-notenoughitems/files/2237940/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "OpenComputers", "version": "1.5.11.25",
+      "url": "http://minecraft.curseforge.com/mc-mods/223008-opencomputers/files/2239434/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Redstone Arsenal", "version": "1.1.0-80",
+      "url": "http://minecraft.curseforge.com/mc-mods/70631-redstone-arsenal/files/2233785/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Simply Jetpacks", "version": "1.5.1",
+      "url": "http://minecraft.curseforge.com/mc-mods/79325-simply-jetpacks/files/2239405/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Special Mobs", "version": "3.0.3",
+      "url": "http://minecraft.curseforge.com/mc-mods/59968-special-mobs/files/2216952/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Storage Drawers", "version": "1.5.0",
+      "url": "http://minecraft.curseforge.com/mc-mods/223852-storage-drawers/files/2239372/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Technomancy", "version": "0.10.k",
+      "url": "http://minecraft.curseforge.com/mc-mods/229912-technomancy/files/2238709/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Thaumcraft", "version": "4.2.3.5",
+      "url": "http://minecraft.curseforge.com/mc-mods/223628-thaumcraft/files/2227552/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Thaumic Energistics", "version": "0.8.10.2",
+      "url": "http://minecraft.curseforge.com/mc-mods/223666-thaumic-energistics/files/2238925/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Thaumic Expansion", "version": "1.0.0",
+      "url": "http://minecraft.curseforge.com/mc-mods/228696-thaumic-expansion/files/2230666/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Thermal Dynamics", "version": "1.0.0-122",
+      "url": "http://minecraft.curseforge.com/mc-mods/227443-thermal-dynamics/files/2233787/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Thermal Expansion", "version": "4.0.1-182",
+      "url": "http://minecraft.curseforge.com/mc-mods/69163-thermalexpansion/files/2234200/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Thermal Foundation", "version": "1.0.0-81",
+      "url": "http://minecraft.curseforge.com/mc-mods/222880-thermal-foundation/files/2233780/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Twilight Forest", "version": "2.3.7",
+      "url": "http://minecraft.curseforge.com/mc-mods/227639-the-twilight-forest/files/2238492/download",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "Witchery", "version": "0.24.1",
+      "url": "http://minecraft.curseforge.com/mc-mods/69673-witchery/files/2234410/download",
+      "server": true, "client": true, "optional": false
+    }
+  ]
+}
