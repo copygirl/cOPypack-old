@@ -18,3 +18,5 @@
 !/config/cofh/thermalexpansion/crafting/*
 !/config/cofh/thermalfoundation/*
 !/config/cofh/world/*
+
+/config/splash.properties
