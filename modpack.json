@@ -60,8 +60,8 @@
       "url": "https://github.com/copygirl/copycore/releases/download/v1.6.1.9/copycore-1.7.10-1.6.1.9.jar",
       "server": true, "client": true, "optional": false
     }, {
-      "name": "Ender Storage", "version": "1.6.1.9",
-      "url": "https://github.com/copygirl/copycore/releases/download/v1.6.1.9/copycore-1.7.10-1.6.1.9.jar",
+      "name": "Ender Storage", "version": "1.4.7.33",
+      "url": "http://minecraft.curseforge.com/mc-mods/229306-ender-storage/files/2235348/download",
       "server": true, "client": true, "optional": false
     }, {
       "name": "Equivalent Exchange 3", "version": "0.3.507",
