@@ -76,6 +76,10 @@
       "url": "http://minecraft.curseforge.com/mc-mods/73510-jabba/files/2229724/download",
       "server": true, "client": true, "optional": false
     }, {
+      "name": "Logistics Pipes", "version": "0.9.1.15",
+      "url": "http://ci.thezorro266.com/view/Logistics%20Pipes/job/LogisticsPipes-0.9-mc17-bc7/lastSuccessfulBuild/artifact/build/libs/logisticspipes-0.9.1.15.jar",
+      "server": true, "client": true, "optional": false
+    }, {
       "name": "MineTweaker 3", "version": "3.0.9C",
       "url": "http://minetweaker3.powerofbytes.com/download/MineTweaker3-1.7.10-3.0.9C.jar",
       "server": true, "client": true, "optional": false
