@@ -2,6 +2,7 @@
 !*/
 !/.gitignore
 !/modpack.json
+!/README.md
 
 !/config/*
 !/config/AppliedEnegistics2/*
